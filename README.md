@@ -49,5 +49,5 @@ Kullanılan simgelerin anlamı:
 u: user
 s: staff
 b: book
-e: eligible(kitap sistemde yani ödünç almak için uygun)
-notE: not eligible(kitap başka bir kullanıcı tarafından ödünç alınmış durumdaS)
+e: eligible(kitap sistemde, yani ödünç almak için uygun)
+notE: not eligible(kitap başka bir kullanıcı tarafından ödünç alınmış durumdS)
