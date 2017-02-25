@@ -6,10 +6,21 @@ Data Structures And Algorithms(CSE222)
 HW1
 
 -Object Oriented Programming gerekleri yerine getirildi.
+-OOP design
+-interface 
+-method overriding 
+-error handling
+-inheritance 
+-polymorphism 
+-javadoc documentation 
+-report 
+-Disobey restrictions
+
 
 Kullanılan dil: Java
 Kullanılan IDE: İntellij IDEA Community 14.1.4
 -Proje maven olarak açıldı.
+
 
 Kullanılan Data Structures yapıları:
 -ArrayList yapısı kullanıldı!
