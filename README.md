@@ -36,18 +36,3 @@ User sistemden kitap ödünç alıp, ödünç alınan kitabı geri bırakabilir.
 Bilgilerin tutulduğu bir .csv dosyası var.
 
 
-
-
-DESIGN:
-Dosya formatı:
-u,ID,password
-s,ID,password
-b,name,writer,e
-b,name.writer,notE
-
-Kullanılan simgelerin anlamı:
-u: user
-s: staff
-b: book
-e: eligible(kitap sistemde, yani ödünç almak için uygun)
-notE: not eligible(kitap başka bir kullanıcı tarafından ödünç alınmış durumdS)
